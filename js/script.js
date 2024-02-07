@@ -9,4 +9,4 @@ address.style.lineHeight = "1.5em";
 address.style.fontSize = "1.75em";
 
 var everyDay = document.querySelector(".contact h3");
-everyDay.innerHTML = "We're here for you <em>every day</em> if the weak.";
+everyDay.innerHTML = "We're here for you <em>every day</em> if the week.";
